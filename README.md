@@ -1,6 +1,6 @@
 # Tableau
 
-### Citi Bank Analysis:
+### Citi Bike Analysis:
 
 We start by looking into the Citi Bank Bike data for the last 6 months and what phenomenoms we can witness.
 
