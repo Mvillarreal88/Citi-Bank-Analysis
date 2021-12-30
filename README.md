@@ -4,6 +4,8 @@
 
 We start by looking into the Citi Bank Bike data for the last 6 months and what phenomenoms we can witness.
 
+[Bike Data](https://ride.citibikenyc.com/system-data)
+
 ### Phenomenoms:
 
 • The first phenomenom we notice is that alot of the most popular stations are all near the bay.
