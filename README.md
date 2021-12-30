@@ -6,7 +6,7 @@ We start by looking into the Citi Bank Bike data for the last 6 months and what 
 
 [Bike Data](https://ride.citibikenyc.com/system-data)
 
-### Phenomenoms:
+### Phenomenon’s:
 
 • The first phenomenom we notice is that alot of the most popular stations are all near the bay.
 - One thing we may want to do is increase is the amount service areas for the bikes in the bay areas.
